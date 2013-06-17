@@ -1,0 +1,13 @@
+map   : search *map*
+M*p   : search M.*p
+m*p   : search m.*p
+0h    : help on 0th entry
+j     : next
+k     : previous
+s     : say doc string
+q     : quit
+d     : class doc
+package:class:method
+:class : list class with package name
+return method on exact match
+^----$ all class with length 4

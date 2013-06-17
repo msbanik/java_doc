@@ -1,0 +1,3 @@
+resRoot = /Users/mbani002/code/IdeaProjects/jhelp/doc/
+docRoot = /Users/mbani002/code/library/docs/jdk/api/
+objMethods = clone,equals,finalize,getClass,hashCode,notify,notifyAll,wait,toString

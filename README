@@ -1,1 +1,17 @@
-This file was created by IntelliJ IDEA (Leda) IU-129.671 for binding GitHub repository
+I spent most of my time on termial and looking some command line javadoc tools, something like ruby or python
+already have. But I didn't found something good, so I build one for myself.
+
+Done
+map   : search *map*  
+M*p   : search M.*p  
+m*p   : search m.*p  
+0h    : help on 0th entry
+j     : next
+k     : previous
+s     : say doc string
+q     : quit
+d     : class doc
+package:class:method
+:class : list class with package name 
+return method on exact match
+^----$ all class with length 4

@@ -2,6 +2,19 @@ I spent most of my time on termial and looking some command line javadoc tools, 
 already have. But I didn't found something good, so I build one for myself.
 
 Done
+Search result for : queue
+
+ 0: AbstractQueue                        8: LayoutQueue
+ 1: AbstractQueuedLongSynchronizer       9: LinkedBlockingQueue
+ 2: AbstractQueuedSynchronizer          10: PriorityBlockingQueue
+ 3: ArrayBlockingQueue                  11: PriorityQueue
+ 4: BlockingQueue                       12: Queue
+ 5: ConcurrentLinkedQueue               13: QueuedJobCount
+ 6: DelayQueue                          14: ReferenceQueue
+ 7: EventQueue                          15: SynchronousQueue
+
+>>
+
 map   : search *map*  
 M*p   : search M.*p  
 m*p   : search m.*p  

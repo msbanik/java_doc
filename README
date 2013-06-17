@@ -1,7 +1,8 @@
-I spent most of my time on termial and looking some command line javadoc tools, something like ruby or python
-already have. But I didn't found something good, so I build one for myself.
+I spent most of my time on termial and looking some command line javadoc tools, something like ruby or python already have. But I didn't found something good, so I build one for myself.
+You can search for packages, class, method, java docs. It's support regular expression.
 
-Done
+>> queue
+
 Search result for : queue
 
  0: AbstractQueue                        8: LayoutQueue
@@ -13,7 +14,30 @@ Search result for : queue
  6: DelayQueue                          14: ReferenceQueue
  7: EventQueue                          15: SynchronousQueue
 
->>
+>> Math.sqrt
+
+Help on sqrt
+
+public static double sqrt(double a)
+
+ Returns the correctly rounded positive square root of a double value.
+ Special cases:
+
+         * If the argument is NaN or less than zero, then the result is NaN.
+         * If the argument is positive infinity, then the result is positive infinity.
+         * If the argument is positive zero or negative zero, then the result is the same as the argument. Otherwise, the result is the double value closest to the true mathematical square root of the argument value.
+
+ Parameters:
+
+     a - a value.
+ Returns:
+
+     the positive square root of a. If the argument is NaN or less than zero, the result is NaN.
+
+>> .runtime
+ 0: getRunTimeCodeBase       2: getRuntimeMXBean
+ 1: getRuntime
+
 
 map   : search *map*  
 M*p   : search M.*p  

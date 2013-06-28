@@ -1,11 +1,4 @@
-
-I spent most of my time on bash termial and looked for some command line javadoc tools, 
-something like ruby or python interpreter's built in help system. I didn't found something good, 
-so I build one for myself :). It is a great way to exploring the java API or any API generated using
-javadoc tools after some processing. You can search for packages, class, method, java docs, etc. 
-It's support regular expression. You can apply nesting search like package:class:method means 
-find some method on a class under this package. It's also highlisght the search result and javadoc. 
-Some example here. 
+I spent most of my time on bash termial and looked for some command line javadoc tools, something like ruby or python interpreter's built in help system. I didn't found something good, so I build one for myself :). It is a great way to exploring the java API or any API generated using javadoc tools after some processing. You can search for packages, class, method, java docs, etc. It's support regular expression. You can apply nesting search like package:class:method means find some method on a class under this package. It's also highlisght the search result and javadoc. Some example here. 
 
 >> queue
 
